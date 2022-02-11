@@ -1,3 +1,6 @@
+
+ATIVIDADE 05
+
 1) Desenvolva o diagrama de casos de uso para os cenários abaixo. Além do diagrama, você deve apresentar uma breve descrição sobre os ATORES e os CASOS DE USOS que compõem o diagrama.
 
 a) CINEMA
