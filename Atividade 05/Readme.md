@@ -1,10 +1,5 @@
 1) Desenvolva o diagrama de casos de uso para os cenários abaixo. Além do diagrama, você deve apresentar uma breve descrição sobre os ATORES e os CASOS DE USOS que compõem o diagrama.
 
-|Data|Versão|Descrição|Autor|
-|:--:|:----:|:-------:|:-------:|
-| 10/02/2022 | 1.0.0 | Criação diagrama de uso para sistema de vendas de ingressos de um cinema e Hospedagem de hotel| Iury Coelho |
-| 11/02/2022 | 1.1.0 | Revisão e ajustes | Iury Coelho |
-
 a) CINEMA
 * Um cinema pode ter muitas salas, sendo necessário, portanto, registrar informações a respeito de cada uma, como sua capacidade, ou seja, o número de assentos disponíveis
 * O cinema apresenta muitos filmes. Um filme tem informações como título e duração. Assim, sempre que um filme for apresentado, deve-se registrá-lo também.
