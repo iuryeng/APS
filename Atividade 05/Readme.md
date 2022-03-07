@@ -7,6 +7,7 @@ a) CINEMA
 * Os clientes do cinema podem comprar ou não ingressos para assistir uma sessão. O funcionário deve intermediar a compra do ingresso. Um ingresso deve conter informações como o tipo de ingresso (meia entrada ou entrada inteira). Além disso, um cliente só pode comprar ingressos para sessões ainda não encerradas.
 
 
+![Cinema_Doc](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Cinema/doc_user_case_cinema.png)
 
 ![Cinema_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Cinema/User%20Case%20Cinema.jpg)
 
@@ -22,7 +23,7 @@ a) CINEMA
 
 
 
-![Cinema_Doc](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Cinema/doc_user_case_cinema.png)
+
 
 
 
