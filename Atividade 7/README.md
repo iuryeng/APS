@@ -12,4 +12,4 @@
 
 ![Aluguel de Carros](https://github.com/iuryeng/APS/blob/main/Atividade%207/Aluguel%20de%20Carros/Aluguel%20de%20Carros.jpg)
 
-A atividade foi feita com o software MagicDraw versão interprise 19.0
+A atividade foi feita com o software MagicDraw versão interprise 19.0: https://www.magicdraw.com/main.php
