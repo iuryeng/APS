@@ -9,7 +9,7 @@ a) CINEMA
 |Data|Versão|Descrição|Autor|
 |:--:|:----:|:-------:|:-------:|
 | 10/02/2022 | 1.0.0 | Criação diagrama de uso para sistema de vendas de ingressos de um cinema | Iury Coelho |
-| 11/02/2022 | 1.0.0 | Revisão e ajustes | Iury Coelho |
+| 11/02/2022 | 1.1.0 | Revisão e ajustes | Iury Coelho |
 
 ![Cinema_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Cinema/User%20Case%20Cinema.jpg)
 
