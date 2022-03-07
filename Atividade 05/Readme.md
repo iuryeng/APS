@@ -1,15 +1,17 @@
 1) Desenvolva o diagrama de casos de uso para os cenários abaixo. Além do diagrama, você deve apresentar uma breve descrição sobre os ATORES e os CASOS DE USOS que compõem o diagrama.
 
+|Data|Versão|Descrição|Autor|
+|:--:|:----:|:-------:|:-------:|
+| 10/02/2022 | 1.0.0 | Criação diagrama de uso para sistema de vendas de ingressos de um cinema e Hospedagem de hotel| Iury Coelho |
+| 11/02/2022 | 1.1.0 | Revisão e ajustes | Iury Coelho |
+
 a) CINEMA
 * Um cinema pode ter muitas salas, sendo necessário, portanto, registrar informações a respeito de cada uma, como sua capacidade, ou seja, o número de assentos disponíveis
 * O cinema apresenta muitos filmes. Um filme tem informações como título e duração. Assim, sempre que um filme for apresentado, deve-se registrá-lo também.
 * Um mesmo filme pode ser representado em diferentes salas e horários diferentes. Cada apresentação em uma determinada sala e horário é chamada de Sessão. Um filme sendo apresentado em uma sessão tem um conjunto máximo de ingressos, determinado pela capacidade de sala.
 * Os clientes do cinema podem comprar ou não ingressos para assistir uma sessão. O funcionário deve intermediar a compra do ingresso. Um ingresso deve conter informações como o tipo de ingresso (meia entrada ou entrada inteira). Além disso, um cliente só pode comprar ingressos para sessões ainda não encerradas.
 
-|Data|Versão|Descrição|Autor|
-|:--:|:----:|:-------:|:-------:|
-| 10/02/2022 | 1.0.0 | Criação diagrama de uso para sistema de vendas de ingressos de um cinema | Iury Coelho |
-| 11/02/2022 | 1.1.0 | Revisão e ajustes | Iury Coelho |
+
 
 ![Cinema_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Cinema/User%20Case%20Cinema.jpg)
 
