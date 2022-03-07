@@ -2,7 +2,7 @@
 * Ao selecionar a opção de venda de ingressos, o sistema carrega todas as seções ainda não encerradas, detalhando horário, o filme apresentado e o número da sala.
 * O cliente escolherá entre as opções a sessão que deseja assistir e o funcionário irá gerar o ingresso referente a mesma.
 
-![Cinema](https://github.com/iuryeng/APS/blob/main/Atividade%207/Cinema/Cinema.jpg)
+![Cinema]
 
 2) ALUGUEL DE CARROS
 * Primeiramente, o funcionário deve selecionar o cliente que está locando automóvel em uma lista. Para isso, ao selecionar a opção locação, o sistema deve carregar todos os clientes da empresa.
