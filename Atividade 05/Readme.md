@@ -11,6 +11,17 @@ a) CINEMA
 ![Cinema_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Cinema/User%20Case%20Cinema.jpg)
 
 
+**Descrição dos Casos de Uso**
+
+|N° |Caso de Uso |Descrição|Ator|
+|:-----:|:----:|:-------:|:-------:|
+| 01 | Gerenciar Salas |  Diz respeito ao processo de gerenciamento de salas sendo possível registrar, deletar ou editar as informações cada sala e o número de assentos disponíveis. | Funcionário |
+| 02 | Gerenciar Filmes | Diz respeito ao processo de gerenciamento de filmes sendo possível registrar, deletar ou editar as informações de cada filme - titulo, duração e disponibilidade  | Funcionário |
+| 03 | Vender Ingresso | Efetua a venda do ingresso para uma sessão de filme específica para um cliente que pode comprar o ingresso (meia entrada ou entrada inteira)  | Funcionário |
+| 04 | Gerenciar Sessões | Diz respeito ao processo de gerenciamento de sessões sendo possível registrar, deletar ou editar as informações de cada filme - conjunto máximo de ingressos de acordo com a capacidade, horário e data da exibição do filme  | Funcionário |
+
+
+
 ![Cinema_Doc](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Cinema/doc_user_case_cinema.png)
 
 
