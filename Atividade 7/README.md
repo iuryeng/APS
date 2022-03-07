@@ -7,3 +7,5 @@
 * Em seguida, o funcionário deve informar a placa do veículo que o cliente deseja locar, selecionando o automóvel também em uma lista, que também foi carregada pelo sistema quando o processo foi iniciado.
 * Ao selecionar a placa, o sistema apresentará detalhes do automóvel, como ano, cor e quilometragem, além do modelo e marca do veículo, que deverão ser consultados pelo sistema.
 * Finalmente, caso o cliente queira realmente locar o veículo selecionado, ele informará o período que ele locará o veículo, para qual finalidade e para onde irá. Isso irá gerar uma fatura de locação, que o cliente deverá pagar para concluir a locação.
+
+![Aluguel de Carros](https://github.com/iuryeng/APS/blob/main/Atividade%207/Aluguel%20de%20Carros/Aluguel%20de%20Carros.jpg)
