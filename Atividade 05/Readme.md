@@ -6,6 +6,9 @@ a) CINEMA
 * Um mesmo filme pode ser representado em diferentes salas e horários diferentes. Cada apresentação em uma determinada sala e horário é chamada de Sessão. Um filme sendo apresentado em uma sessão tem um conjunto máximo de ingressos, determinado pela capacidade de sala.
 * Os clientes do cinema podem comprar ou não ingressos para assistir uma sessão. O funcionário deve intermediar a compra do ingresso. Um ingresso deve conter informações como o tipo de ingresso (meia entrada ou entrada inteira). Além disso, um cliente só pode comprar ingressos para sessões ainda não encerradas.
 
+![Cinema](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Cinema/User%20Case%20Cinema.jpg)
+
+
 b) HOTEL
 * Os quartos podem ser alugados no momento em que o hóspede chega ao hotel (desde que existam vagas) ou serem reservados via internet.
 
