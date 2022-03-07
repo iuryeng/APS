@@ -11,3 +11,5 @@
 * Finalmente, caso o cliente queira realmente locar o veículo selecionado, ele informará o período que ele locará o veículo, para qual finalidade e para onde irá. Isso irá gerar uma fatura de locação, que o cliente deverá pagar para concluir a locação.
 
 ![Aluguel de Carros](https://github.com/iuryeng/APS/blob/main/Atividade%207/Aluguel%20de%20Carros/Aluguel%20de%20Carros.jpg)
+
+A atividade foi feita com o software MagicDraw versão interprise 19.0
