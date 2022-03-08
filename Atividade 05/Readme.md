@@ -49,6 +49,5 @@ b) HOTEL
 | 03 | Alugar Quarto | Efetua o aluguel do um ou mais  quarto(s)   | Recepcionista e Hospede |
 | 04 |Requisitar Serviço | Diz respeito ao processo de solicitação de serviços do hotel como restaurante, lavar e/ou passar roupas, etc.  |Recepcionista e Hospede |
 | 05 | Checkout | Diz respeito ao processo de checkout da estadia no hotel incluido o pagamento dos serviços , consumo e diarias  |Recepcionista e Hospede |
-| 06 | Checkin | Diz respeito ao processo de checkin e esta ligado ao gerenciamento de documentos do hospide  |Recepcionista e Hospede |
-| 06 | Checkin | Diz respeito ao processo de checkin e esta ligado ao gerenciamento de documentos do hospide  |Recepcionista e Hospede |
+| 06 | Checkin | Diz respeito ao processo de checkin e esta ligado ao gerenciamento de documentos do hospede  |Recepcionista e Hospede |
 | 07 | Finalizar Hospedagem | Diz respeito ao processo de encerramento da estadiae esta relacionado ao processo de checkout  | Hospede |
