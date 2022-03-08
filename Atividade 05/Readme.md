@@ -30,7 +30,7 @@ a) CINEMA
 b) HOTEL
 * Os quartos podem ser alugados no momento em que o hóspede chega ao hotel (desde que existam vagas) ou serem reservados via internet.
 
-![Cinema_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Hotel/Sistema%20Hospedagem.jpgg)
+![Hotel_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Hotel/Sistema%20Hospedagem.jpg)
 
 
 * Caso seja a primeira vez que aluga quartos, ou seus dados tenham mudado, o hóspede deve ser cadastrado antes de finalizar o aluguel do quarto.
