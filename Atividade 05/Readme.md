@@ -51,3 +51,5 @@ b) HOTEL
 | 05 | Checkout | Diz respeito ao processo de checkout da estadia no hotel incluido o pagamento dos serviços , consumo e diarias  |Recepcionista e Hospede |
 | 06 | Checkin | Diz respeito ao processo de checkin e esta ligado ao gerenciamento de documentos do hospede  |Recepcionista e Hospede |
 | 07 | Finalizar Hospedagem | Diz respeito ao processo de encerramento da estadiae esta relacionado ao processo de checkout  | Hospede |
+
+A atividade foi feita com o software MagicDraw versão interprise 19.0: https://www.magicdraw.com/main.php
