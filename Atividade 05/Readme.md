@@ -29,10 +29,6 @@ a) CINEMA
 
 b) HOTEL
 * Os quartos podem ser alugados no momento em que o hóspede chega ao hotel (desde que existam vagas) ou serem reservados via internet.
-
-
-
-
 * Caso seja a primeira vez que aluga quartos, ou seus dados tenham mudado, o hóspede deve ser cadastrado antes de finalizar o aluguel do quarto.
 * Além do aluguel do quarto, o hotel oferece diversos serviços, como restaurante, lavar e/ou passar roupas, etc. Obviamente, qualquer desses serviços, se solicitado, será cobrado na fatura final.
 * O hóspede pode também consumir os produtos contidos no frigobar, que também são cobrados pelo hotel.
@@ -43,3 +39,16 @@ b) HOTEL
 ![Hotel_Doc](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Hotel/user_case_hotel_doc.png)
 
 ![Hotel_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Hotel/Sistema%20Hospedagem.jpg)
+
+**Descrição dos Casos de Uso**
+
+|N° |Caso de Uso |Descrição|Ator|
+|:-----:|:----:|:-------:|:-------:|
+| 01 | Gerenciar Hospedagem |  Diz respeito ao processo de gerenciamento de reserva e cadastro de informações de estadia no que diz respeito a documentação do hospede e checkin . | Recepcionista |
+| 02 | Gerenciar Quartos | Diz respeito ao processo de gerenciamento de quartos sendo possível registrar, deletar ou editar as informações de cada quarto  | Recepcionista |
+| 03 | Alugar Quarto | Efetua o aluguel do um ou mais  quarto(s)   | Recepcionista e Hospede |
+| 04 |Requisitar Serviço | Diz respeito ao processo de solicitação de serviços do hotel como restaurante, lavar e/ou passar roupas, etc.  |Recepcionista e Hospede |
+| 05 | Checkout | Diz respeito ao processo de checkout da estadia no hotel incluido o pagamento dos serviços , consumo e diarias  |Recepcionista e Hospede |
+| 06 | Checkin | Diz respeito ao processo de checkin e esta ligado ao gerenciamento de documentos do hospide  |Recepcionista e Hospede |
+| 06 | Checkin | Diz respeito ao processo de checkin e esta ligado ao gerenciamento de documentos do hospide  |Recepcionista e Hospede |
+| 07 | Finalizar Hospedagem | Diz respeito ao processo de encerramento da estadiae esta relacionado ao processo de checkout  | Hospede |
