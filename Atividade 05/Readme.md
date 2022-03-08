@@ -30,6 +30,9 @@ a) CINEMA
 b) HOTEL
 * Os quartos podem ser alugados no momento em que o hóspede chega ao hotel (desde que existam vagas) ou serem reservados via internet.
 
+![Cinema_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Hotel/Sistema%20Hospedagem.jpgg)
+
+
 * Caso seja a primeira vez que aluga quartos, ou seus dados tenham mudado, o hóspede deve ser cadastrado antes de finalizar o aluguel do quarto.
 * Além do aluguel do quarto, o hotel oferece diversos serviços, como restaurante, lavar e/ou passar roupas, etc. Obviamente, qualquer desses serviços, se solicitado, será cobrado na fatura final.
 * O hóspede pode também consumir os produtos contidos no frigobar, que também são cobrados pelo hotel.
