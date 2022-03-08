@@ -30,7 +30,7 @@ a) CINEMA
 b) HOTEL
 * Os quartos podem ser alugados no momento em que o hóspede chega ao hotel (desde que existam vagas) ou serem reservados via internet.
 
-![Hotel_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Hotel/Sistema%20Hospedagem.jpg)
+
 
 
 * Caso seja a primeira vez que aluga quartos, ou seus dados tenham mudado, o hóspede deve ser cadastrado antes de finalizar o aluguel do quarto.
@@ -39,3 +39,7 @@ b) HOTEL
 * As diárias vencem ao meio-dia. A política do hotel exige que as diárias sejam quitadas semanalmente. Quando o cliente for quitar a fatura, quitará não somente as diárias do(s) quarto(s) que alugou, mas também qualquer serviço que tenha solicitado e os itens consumidos no frigobar.
 * O hóspede, depois que quitar a fatura, pode permanecer no hotel ou encerrar sua estadia.
 * Quando for encerrar sua estadia, o hóspede deverá pagar quaisquer serviços e/ou diárias ainda não pagas.
+
+![Hotel_Doc](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Hotel/user_case_hotel_doc.png)
+
+![Hotel_Diagrama](https://github.com/iuryeng/APS/blob/main/Atividade%2005/Hotel/Sistema%20Hospedagem.jpg)
