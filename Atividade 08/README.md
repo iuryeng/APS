@@ -20,3 +20,6 @@
 
 ### Solução
 ![pagamento diarias](https://github.com/iuryeng/APS/blob/main/Atividade%2008/processo%20paragemento%20diarias.jpg)
+
+
+A atividade foi feita com o software MagicDraw versão interprise 19.0: https://www.magicdraw.com/main.php
