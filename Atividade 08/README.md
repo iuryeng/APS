@@ -17,3 +17,6 @@
 * A partir dessa listagem, deve-se quitar as diárias apresentadas
 * Se tiver havido a solicitação de qualquer serviço no período em que o quarto estava ocupado, estes devem ser quitados também.
 * O mesmo ocorre se houver quaisquer consumos de frigobar, sendo necessários também quitá-los.
+
+### Solução
+![pagamento diarias](https://github.com/iuryeng/APS/blob/main/Atividade%2008/processo%20paragemento%20diarias.jpg)
