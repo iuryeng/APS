@@ -9,3 +9,17 @@
 ### Solução
 
 ![venda ingresso cinema](https://github.com/iuryeng/APS/blob/main/Atividade%2009/cinema.jpg)
+
+
+2) HOTEL: Processo de pagamento de diárias
+* No momento em que o hóspede informa o número do quarto para quitar as diárias, o sistema deve consultar o hóspede e todas as diárias devidas pelo aluguel do quarto, apresentando-as ao funcionário.
+* A partir dessa listagem, deve-se quitar as diárias apresentadas
+* Se tiver havido a solicitação de qualquer serviço no período em que o quarto estava ocupado, estes devem ser quitados também.
+* O mesmo ocorre se houver quaisquer consumos de frigobar, sendo necessários também quitá-los.
+
+### Solução
+
+![pagamento diaria hotel](https://github.com/iuryeng/APS/blob/main/Atividade%2009/hotel_.jpg)
+
+
+A atividade foi feita com o software MagicDraw versão interprise 19.0: https://www.magicdraw.com/main.php
